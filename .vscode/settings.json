@@ -3,6 +3,20 @@
         "stdio.h": "c",
         "stdlib.h": "c",
         "type_traits": "c",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "array": "c",
+        "deque": "c",
+        "forward_list": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "regex": "c",
+        "valarray": "c",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
     }
 }
